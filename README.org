@@ -39,16 +39,16 @@ Best-model TM-scores to the open and closed reference states across the
 OC23 benchmark, comparing our custom ablation method against AFsample,
 SPEACH_AF, MSA subsampling, AFsample2, and vanilla AF2:
 
-#+CAPTION: Best-model TM-scores per method
+** Best-model TM-scores per method
 [[./images/results_tm_scores.png]]
 
-Fill-ratio (ensemble coverage between the two reference states) per method:
 
-#+CAPTION: Fill-ratio per method
+** Fill-ratio (ensemble coverage between the two reference states) per method:
+
 [[./images/results_fill_ratio.png]]
 
 
-#+CAPTION: The protein target where the custom method performed best according to the Fill-Ratio metric (P00558)
+** The protein target where the custom method performed best according to the Fill-Ratio metric (P00558)
 [[./images/p00558_updated.png]]
 
 * References
